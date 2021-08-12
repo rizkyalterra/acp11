@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Fixing Bug 1")
 	fmt.Println("Hello World 3")
 	fmt.Println("Hello World 4")
+	fmt.Println("FeatureA")
 }
